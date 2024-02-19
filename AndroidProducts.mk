@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_psyche.mk
+    $(LOCAL_DIR)/oolong_psyche.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_psyche-user \
-    aosp_psyche-userdebug \
-    aosp_psyche-eng
+    oolong_psyche-user \
+    oolong_psyche-userdebug \
+    oolong_psyche-eng
