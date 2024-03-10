@@ -26,3 +26,5 @@ TARGET_HAS_UDFPS := true
 
 PRODUCT_CHARACTERISTICS := nosdcard
 BUILD_FINGERPRINT := Xiaomi/psyche_global/psyche:12/RKQ1.211001.001/V13.0.5.0.SLDMIXM:user/release-keys
+
+TARGET_SUPPORTS_BLUR := true
