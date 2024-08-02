@@ -36,6 +36,3 @@ ro.config.vc_call_vol_steps=11
 ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
 
-# Fingerprint
-persist.vendor.sys.fp.vendor=goodix_fod
-ro.boot.fpsensor=goodix_fod
